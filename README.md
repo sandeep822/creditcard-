@@ -15,6 +15,7 @@ The above code is essential for evaluating and comparing the performance of an e
 ![image](https://github.com/sandeep822/creditcard-/assets/50867031/b5751f15-ac5c-4268-a899-d0de0168478a)
 
 #Using Bagging and AdaBoost
+
 ![image](https://github.com/sandeep822/creditcard-/assets/50867031/341af306-0a48-4278-a838-462811881303)
 
 four different classifiers are evaluated and compared using Receiver Operating Characteristic (ROC) curve analysis. Each classifier, including Decision Tree, Majority Voting (an ensemble technique), Bagging, and AdaBoost, is assessed for its ability to distinguish between positive and negative instances.
@@ -28,9 +29,11 @@ This analysis is crucial for selecting the most suitable classifier for a specif
 ![image](https://github.com/sandeep822/creditcard-/assets/50867031/c6fbb950-8370-4434-ad12-79c1db5cfe39)
 
 K_Means Clustering
+
 ![image](https://github.com/sandeep822/creditcard-/assets/50867031/1b27df4e-5692-4653-be5c-32c84ad79fb2)
 
 A mix of cluster labels and potential numerical values. It suggests that there are three clusters (Cluster 1, Cluster 2, Cluster 3) with corresponding labels and centroids.
+
 ![image](https://github.com/sandeep822/creditcard-/assets/50867031/6189bae2-be06-4361-82b7-71ccf2eafac7)
 
 K-Means clustering with two clusters to the dataset and visualizes the resulting clusters and centroids. Data points in cluster 1 are plotted in light green squares, and those in cluster 2 are shown in orange circles. The cluster centroids are marked with red asterisks. The legend labels the clusters and centroids. The plot includes a grid for reference, and it's presented with a tight layout.
